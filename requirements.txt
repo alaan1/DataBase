@@ -1,4 +1,5 @@
 pyrogram
-telebot
+pyTelegramBotAPI
+python-telegram-bot
 TgCrypto
 kvsqlite
