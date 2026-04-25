@@ -54,4 +54,5 @@ async def handle_docs(client: Client, message: Message):
 
     await status.edit_text(f"✅ اكتمل تحميل {file_name}")
 
-app.run()
+def run():
+	app.run()
